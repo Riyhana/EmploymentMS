@@ -1,0 +1,17 @@
+[20-Sep-2020 17:27:26 Asia/Kabul] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function CRUD::select(), 2 passed in D:\xampp\htdocs\EmployeeRegisterFormWebProject\www\profile.php on line 39 and exactly 3 expected in D:\xampp\htdocs\EmployeeRegisterFormWebProject\lib\crud.php:17
+Stack trace:
+#0 D:\xampp\htdocs\EmployeeRegisterFormWebProject\www\profile.php(39): CRUD->select('user', '`id`, `name`, `...')
+#1 {main}
+  thrown in D:\xampp\htdocs\EmployeeRegisterFormWebProject\lib\crud.php on line 17
+[20-Sep-2020 17:27:41 Asia/Kabul] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function CRUD::select(), 2 passed in D:\xampp\htdocs\EmployeeRegisterFormWebProject\www\profile.php on line 39 and exactly 3 expected in D:\xampp\htdocs\EmployeeRegisterFormWebProject\lib\crud.php:17
+Stack trace:
+#0 D:\xampp\htdocs\EmployeeRegisterFormWebProject\www\profile.php(39): CRUD->select('user', '`id`, `name`, `...')
+#1 {main}
+  thrown in D:\xampp\htdocs\EmployeeRegisterFormWebProject\lib\crud.php on line 17
+[21-Sep-2020 10:22:48 Asia/Kabul] PHP Notice:  Undefined index: status_data in D:\xampp\htdocs\EmployeeRegisterFormWebProject\www\each_comment.php on line 50
+[22-Sep-2020 09:48:33 Asia/Kabul] PHP Notice:  Undefined index: lastname in C:\wamp\www\mono\Employee\www\profile.php on line 22
+[22-Sep-2020 09:48:33 Asia/Kabul] PHP Stack trace:
+[22-Sep-2020 09:48:33 Asia/Kabul] PHP   1. {main}() C:\wamp\www\mono\Employee\www\profile.php:0
+[23-Sep-2020 21:53:55 Asia/Kabul] PHP Notice:  Undefined index: lastname in C:\wamp\www\mono\Employee\1\www\profile.php on line 22
+[23-Sep-2020 21:53:55 Asia/Kabul] PHP Stack trace:
+[23-Sep-2020 21:53:55 Asia/Kabul] PHP   1. {main}() C:\wamp\www\mono\Employee\1\www\profile.php:0
